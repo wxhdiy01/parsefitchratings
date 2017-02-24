@@ -1,0 +1,1 @@
+Parse the Excel file provided by Fitch recording their complete sovereign rating history.
